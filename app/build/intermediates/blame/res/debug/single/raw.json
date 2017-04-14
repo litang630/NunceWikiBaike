@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sk_start.pcm",
+        "source": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\raw\\sk_start.pcm"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sk_error.pcm",
+        "source": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\raw\\sk_error.pcm"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sk_stop.pcm",
+        "source": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\raw\\sk_stop.pcm"
+    }
+]

@@ -1,0 +1,334 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 52,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 56,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 56,
+                        "endOffset": 429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 279,
+                    "endColumn": 52,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 52,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 52,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 52,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 49,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 49,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 45,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 45,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 51,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 51,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 49,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 49,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 59,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 59,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 73,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 73,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 63,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 771,
+                        "endColumn": 63,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 74,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 74,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 77,
+                    "endOffset": 929
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 77,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1220
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1225,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

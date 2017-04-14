@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudio\Android Studio1\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\gson-2.2.4_8360d4c163ca3b46683ebda1325a72643b237bf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudio\applications\NuanceBaikeDemo\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\jsoup-1.9.2_94b7bb38427accd29c80522e5124919b90687c53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a028fe31114bf78646ffabc82fda01d737ca968c">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3eea0118c8d5904c887279225c29f62f17e4c65b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudio\applications\NuanceBaikeDemo\app\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee8fbd28bc4c9ac751503f8a07cb82b6f4d53fe5">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\classes_89bc62a179d8a6f06ae79e4f275c056aef87c05e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0cbbaf5688e58cb9f4067fa359b41036ce6c22f3">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\instant-run_4c5ec810256b38ffdc909f48df9a328fb81c4690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_dc73f2e82145587030a62485549def690be81f35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_39135312b47d52e8c9a4b06d51503da09cf9a766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\adt-bundle-windows-x86_64-20140702\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\AndroidStudio\applications\NuanceBaikeDemo\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_dfe2be356dd39faa38730891aed42200e8c388fc.jar" />
+    </item>
+
+</items>

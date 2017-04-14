@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Thu Nov 17 18:31:20 CST 2016
+2.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\sk_error.pcm
+2.set=ANDROID_RESOURCE
+4.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_text_nlu.xml
+4.set=ANDROID_RESOURCE
+6.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+9.set=ANDROID_RESOURCE
+9.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_nlu.xml
+1.set=ANDROID_RESOURCE
+7.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\sk_stop.pcm
+3.set=ANDROID_RESOURCE
+1.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\sk_start.pcm
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

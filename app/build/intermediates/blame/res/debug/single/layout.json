@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_nlu.xml",
+        "source": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\layout\\activity_text_nlu.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nlu.xml",
+        "source": "F:\\AndroidStudio\\applications\\NuanceBaikeDemo\\app\\src\\main\\res\\layout\\activity_nlu.xml"
+    }
+]
